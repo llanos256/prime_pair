@@ -1,3 +1,3 @@
 
-Algorithn to get a prime pair of a product 
+Algorithm to get a prime pair of a product 
 
