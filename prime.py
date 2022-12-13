@@ -2,7 +2,7 @@ import numpy as np
 import math
 import time
 
-## method to get all prime numbers less than n
+##Method to get all prime numbers less than n
 def getPrimeNumbers(n, prime):
     prime[0] = False
     prime[1] = False
